@@ -1,0 +1,40 @@
+body { 
+    color: rgb(208, 108, 123);
+    background:rgb(208, 108, 123);
+    margin: 0;
+    font-family: "Handlee", cursive;
+}
+
+
+header {
+    border-bottom: solid 2px lightgoldenrodyellow;
+    padding: 20px;
+    font-size: 32px;
+    color: lightgoldenrodyellow;
+}
+
+section {
+    background: white;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p {
+    font-size:20px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
